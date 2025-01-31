@@ -1,11 +1,18 @@
-# Electron + Fluent UI React
+# OmniVerse Desktop
 
-This is a repo to quickly start the development of an electron application with [Fluent UI React](https://react.fluentui.dev/).
+![alt text](image.png)
 
-![Windows Light](docs/windows-light.png)
-![Windows Dark](docs/windows-dark.png)
-![macOS Light](docs/macos-light.png)
-![macOS Dark](docs/macos-dark.png)
+## Taskbar Shortcuts
+
+![alt text](image-1.png)
+
+## Model options
+
+![alt text](image-2.png)
+
+## Conversation View
+
+![alt text](image-3.png)
 
 ## Development
 
@@ -19,24 +26,6 @@ This is a repo to quickly start the development of an electron application with 
 
     ```
     $ npm run dev
-    ```
-
--   Lint files
-
-    ```
-    $ npm run lint
-    ```
-
--   Perform typecheck
-
-    ```
-    $ npm run typecheck
-    ```
-
--   Run tests
-
-    ```
-    $ npm run test
     ```
 
 -   Build and package app
