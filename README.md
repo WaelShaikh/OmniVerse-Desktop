@@ -14,6 +14,14 @@
 
 ![alt text](image-3.png)
 
+## W.I.P
+
+STT Integration
+
+TTS Integration
+
+Speech-To-Speech Interface
+
 ## Development
 
 -   Install dependencies
